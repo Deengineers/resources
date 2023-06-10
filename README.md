@@ -8,7 +8,7 @@
 - [AWS CCP Exam practice – on Udemy by Stephane Marek](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/)
 
 
-## AZ-900
+## Azure
 
 - [FreecodeCamp](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
 
