@@ -1,5 +1,7 @@
 # Resources
 
+## DevOps
+
 [Full DevOps Resources](./devops/README.md) >> by @a-abukar
 ## AWS 
 
