@@ -1,6 +1,6 @@
 # Resources
 
-[Full DevOps Resources by @a-abukar](./devops/README.md)
+[Full DevOps Resources](./devops/README.md) >> by @a-abukar
 ## AWS 
 
 - [AWS CCP FreecodeCamp](https://www.youtube.com/watch?v=3hLmDS179YE)
